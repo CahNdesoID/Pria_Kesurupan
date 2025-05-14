@@ -95,3 +95,5 @@ frame_progress = 0.0202179
 shape = SubResource("CircleShape2D_3guj5")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+
+[node name="Node2D" type="Node2D" parent="."]
