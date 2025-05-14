@@ -1,68 +1,8 @@
-[gd_scene load_steps=13 format=3 uid="uid://dxk5msia0ipat"]
-
-[sub_resource type="AtlasTexture" id="AtlasTexture_34ia7"]
-region = Rect2(0, 0, 1700, 1400)
-
-[sub_resource type="AtlasTexture" id="AtlasTexture_3blhx"]
-region = Rect2(0, 1400, 1700, 1400)
-
-[sub_resource type="AtlasTexture" id="AtlasTexture_u6ktl"]
-region = Rect2(0, 2800, 1700, 1400)
-
-[sub_resource type="AtlasTexture" id="AtlasTexture_b4v7k"]
-region = Rect2(0, 4200, 1700, 1400)
-
-[sub_resource type="AtlasTexture" id="AtlasTexture_hdsug"]
-region = Rect2(0, 5600, 1700, 1400)
-
-[sub_resource type="AtlasTexture" id="AtlasTexture_ptcft"]
-region = Rect2(0, 7000, 1700, 1400)
-
-[sub_resource type="AtlasTexture" id="AtlasTexture_gmhnr"]
-region = Rect2(0, 8400, 1700, 1400)
-
-[sub_resource type="AtlasTexture" id="AtlasTexture_far83"]
-region = Rect2(0, 9800, 1700, 1400)
-
-[sub_resource type="AtlasTexture" id="AtlasTexture_ckp64"]
-region = Rect2(0, 11200, 1700, 1400)
-
-[sub_resource type="AtlasTexture" id="AtlasTexture_yi158"]
-region = Rect2(0, 12600, 1700, 1400)
+[gd_scene load_steps=3 format=3 uid="uid://dxk5msia0ipat"]
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_bvaoh"]
 animations = [{
-"frames": [{
-"duration": 1.0,
-"texture": SubResource("AtlasTexture_34ia7")
-}, {
-"duration": 1.0,
-"texture": SubResource("AtlasTexture_3blhx")
-}, {
-"duration": 1.0,
-"texture": SubResource("AtlasTexture_u6ktl")
-}, {
-"duration": 1.0,
-"texture": SubResource("AtlasTexture_b4v7k")
-}, {
-"duration": 1.0,
-"texture": SubResource("AtlasTexture_hdsug")
-}, {
-"duration": 1.0,
-"texture": SubResource("AtlasTexture_ptcft")
-}, {
-"duration": 1.0,
-"texture": SubResource("AtlasTexture_gmhnr")
-}, {
-"duration": 1.0,
-"texture": SubResource("AtlasTexture_far83")
-}, {
-"duration": 1.0,
-"texture": SubResource("AtlasTexture_ckp64")
-}, {
-"duration": 1.0,
-"texture": SubResource("AtlasTexture_yi158")
-}],
+"frames": [],
 "loop": true,
 "name": &"default",
 "speed": 13.0
