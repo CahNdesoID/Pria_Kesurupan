@@ -1,6 +1,6 @@
 [gd_scene load_steps=14 format=3 uid="uid://dxk5msia0ipat"]
 
-[ext_resource type="Texture2D" uid="uid://bmnjlw42k0f3l" path="res://Pria_Kesurupan/assets/Mas MC-Sheett.png" id="1_tbjc7"]
+[ext_resource type="Texture2D" uid="uid://bmnjlw42k0f3l" path="res://assets/Mas MC-Sheett.png" id="1_tbjc7"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_34ia7"]
 atlas = ExtResource("1_tbjc7")
@@ -89,7 +89,9 @@ animations = [{
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="CharacterBody2D"]
 position = Vector2(251, 56)
 sprite_frames = SubResource("SpriteFrames_bvaoh")
-frame_progress = 0.0235667
+frame_progress = 0.0202179
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="CharacterBody2D/AnimatedSprite2D"]
 shape = SubResource("CircleShape2D_3guj5")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
