@@ -146,3 +146,5 @@ tile_set = SubResource("TileSet_3blhx")
 
 [node name="playes" parent="." instance=ExtResource("2_34ia7")]
 position = Vector2(-3, 0)
+
+[node name="Enemy" type="Node" parent="."]
