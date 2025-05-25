@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://brjvhrympk5tb"
-path="res://.godot/imported/Mas MC Idle remake.png-3d575d4be258de1dff3009122656a274.ctex"
+uid="uid://i4ajcphglde4"
+path="res://.godot/imported/Mas MC Idle.png-77ea6936fdf3ea8d82837611aff8a35a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Pria_Kesurupan/assets/Mas MC Idle remake.png"
-dest_files=["res://.godot/imported/Mas MC Idle remake.png-3d575d4be258de1dff3009122656a274.ctex"]
+source_file="res://assets/sprites/Mas MC Idle.png"
+dest_files=["res://.godot/imported/Mas MC Idle.png-77ea6936fdf3ea8d82837611aff8a35a.ctex"]
 
 [params]
 

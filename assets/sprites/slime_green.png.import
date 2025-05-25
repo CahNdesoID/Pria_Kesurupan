@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bmnjlw42k0f3l"
-path="res://.godot/imported/Mas MC-Sheett.png-034fd81b707d87c4c02b0f511728d068.ctex"
+uid="uid://csjdpmxjbo2f8"
+path="res://.godot/imported/slime_green.png-f6349164bf3a0f5189bb927b97af9c58.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Pria_Kesurupan/assets/Mas MC-Sheett.png"
-dest_files=["res://.godot/imported/Mas MC-Sheett.png-034fd81b707d87c4c02b0f511728d068.ctex"]
+source_file="res://assets/sprites/slime_green.png"
+dest_files=["res://.godot/imported/slime_green.png-f6349164bf3a0f5189bb927b97af9c58.ctex"]
 
 [params]
 
